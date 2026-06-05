@@ -4,7 +4,6 @@
 
 The objective of this project is to predict whether a loan application will be approved or rejected based on applicant details.
 
----
 
 ## Approach
 
@@ -15,7 +14,7 @@ The objective of this project is to predict whether a loan application will be a
 * Training a classification model using Logistic Regression
 * Evaluating performance using accuracy and confusion matrix
 
----
+
 
 ## Dataset Features
 
@@ -26,7 +25,7 @@ The objective of this project is to predict whether a loan application will be a
 * Credit_History
 * Loan_Status (Target variable)
 
----
+
 
 ## Results and Insights
 
@@ -35,7 +34,7 @@ The objective of this project is to predict whether a loan application will be a
 * Outliers affect model performance and must be handled
 * Logistic Regression provides a strong baseline model
 
----
+
 
 ## Conclusion
 
