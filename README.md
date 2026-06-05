@@ -8,7 +8,6 @@ The objective of this project is to predict whether a loan application will be a
 ## Approach
 
 * Data cleaning and handling missing values
-* Encoding categorical variables such as Gender, Married, Education, and Loan_Status
 * Removing outliers using the IQR method
 * Exploratory Data Analysis (EDA) using graphs
 * Training a classification model using Logistic Regression
@@ -29,7 +28,6 @@ The objective of this project is to predict whether a loan application will be a
 
 ## Results and Insights
 
-* Credit History is the most important factor for loan approval
 * Higher income increases chances of approval
 * Outliers affect model performance and must be handled
 * Logistic Regression provides a strong baseline model
